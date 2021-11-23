@@ -39,12 +39,12 @@ nav a:hover {
 
 footer {
 	text-align: center;
-	background: url("logo.jpg");
-	padding: 40px 0;
+	background-color: #ddd6f3;
+	padding: 20px 0;
 }
 
 .copyright {
-	color: #EE82EE;
+	color: #000000;
 	font-size: 13px;
 	margin: 20px 0 0;
 }
@@ -58,13 +58,14 @@ footer {
 
 .principal{
 	padding:3em 0;
-	width: 940px;
+	width: 100%;
 	background:#ddd6f3;
 	margin: 0 auto;
 }
 
 .principal p {
 	margin: 0 0 1em;
+	text-align:center;
 }
 
 .principal strong {
@@ -73,12 +74,6 @@ footer {
 
 .principal em {
 	font-weight:italic;
-}
-
-.utensilios{
-	width:120px;
-	float: left;
-	margin:0 20px 20px 0;
 }
 
 .mapa{
@@ -107,7 +102,7 @@ footer {
 }
 
 .lista-terapias{
-	width:40%;
+	width:30%;
 	display:inline-block;
 	vertical-align: top;
 }
