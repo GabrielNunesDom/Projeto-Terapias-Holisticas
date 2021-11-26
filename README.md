@@ -10,3 +10,7 @@ Atividade realizada: Criação de um site de produtos com foco em terapias holí
 # Objetivo: 
 
 Utilizar as habilidades observadas durante os cursos de Html5 e Css3 para construir três páginas distintas: Home, Serviços e Contato.
+
+# Modo de uso:
+
+Baixar todos os arquivos e depois executar o index.html para transitar entre as páginas.
