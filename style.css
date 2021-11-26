@@ -16,12 +16,13 @@ header {
 nav {
 	position: absolute;
 	top: 110px;
-	right: -190px;
+	right: -100px;
 }
 
 nav li {
-	display: inline;
-	margin: 0 0 0 15px;
+	display: block;
+	margin: 0 0 0 10px;
+	padding-top: 15px;
 }
 
 nav a {
