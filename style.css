@@ -9,14 +9,14 @@ header {
 
 .caixa {
 	position: relative;
-	width: 940px;
+	width: 960px;
 	margin: 0 auto;
 }
 
 nav {
 	position: absolute;
 	top: 110px;
-	right: 0;
+	right: -190px;
 }
 
 nav li {
@@ -190,7 +190,7 @@ main {
 }
 
 form {
-	margin: 40px 0px;
+	margin: 40px 100px;
 }
 
 form label, form legend {
@@ -235,7 +235,7 @@ fieldset {
 }
 
 table {
-	margin: 20px 0px 40px 20px;
+	margin: 20px 0px 40px 100px;
 }
 
 thead {
